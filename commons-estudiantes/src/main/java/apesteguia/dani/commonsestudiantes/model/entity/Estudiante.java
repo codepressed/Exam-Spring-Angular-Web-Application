@@ -1,4 +1,4 @@
-package apesteguia.dani.microserviciosusuarios.model.entity;
+package apesteguia.dani.commonsestudiantes.model.entity;
 
 import javax.persistence.*;
 import java.util.Date;

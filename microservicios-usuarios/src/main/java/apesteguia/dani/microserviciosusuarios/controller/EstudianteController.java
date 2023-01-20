@@ -1,9 +1,8 @@
 package apesteguia.dani.microserviciosusuarios.controller;
 
+import apesteguia.dani.commonsestudiantes.model.entity.Estudiante;
 import apesteguia.dani.commonsmicroservicios.controller.CommonController;
-import apesteguia.dani.microserviciosusuarios.model.entity.Estudiante;
 import apesteguia.dani.microserviciosusuarios.service.EstudianteService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
